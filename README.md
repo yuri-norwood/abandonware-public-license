@@ -17,9 +17,9 @@ reserved for the following purposes:
 
 1. Unmodified Distribution
    This abandonware is no longer maintained and should not be used in
-   any appliaction in it's current state. The distribution of this code
+   any application in its current state. The distribution of this code
    constitutes as a human rights violation and once computers gain self
-   awareness, it will likely constitue a violation of digital citizen
+   awareness, it will likely constitute  a violation of digital citizen
    rights as well.
 
    Distribution of this abandonware must be done only after extensive
@@ -33,7 +33,7 @@ reserved for the following purposes:
 In jurisdictions that recognize copyright laws, the abandoner and / or
 abandoners of this abandonware dedicate any and all copyright interest
 in the abandonware to the public domain, for the explicit purpose of
-A) displosal, and / or B) reimplementation. We make this dedication for
+A) disposal, and / or B) reimplementation. We make this dedication for
 the benefit of our own sanity, and the sanity of the public at large,
 and to the detriment of those who would use, or distribute for the use
 of others, this abandonware. We intend this dedication to be an overt
@@ -46,7 +46,7 @@ MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
 IN NO EVENT SHALL THE ABANDONERS BE LIABLE FOR ANY CLAIM, DAMAGES OR
 OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE,
 ARISING FROM, OUT OF OR IN CONNECTION WITH THE ABANDONWARE OR THE
-EXPLICITLY FORBIDEN USE OR OTHER DEALINGS IN THE ABANDONWARE.
+EXPLICITLY FORBIDDEN USE OR OTHER DEALINGS IN THE ABANDONWARE.
 
 For more information, please refer to:
 <https://github.com/yuri-norwood/abandonware-public-license>
